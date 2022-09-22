@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
 <h1 align="center">Hi 👋, I'm Juhi Kumari</h1>
 <h3 align="center">Exploratory Data analytics</h3>
 
@@ -14,6 +8,8 @@
 - 👯 I’m work with [The crew team](https://thecrewteam.netlify.app)
 
 - 🤝 I contribute my effort together [Tourism Team](https://bihartourism.netlify.app)
+
+- 💬 Ask me about **Python, Python_libraries, AI, ML**
 
 - 📫 How to reach me **juhi.22mci10066@gmail.com**
 
